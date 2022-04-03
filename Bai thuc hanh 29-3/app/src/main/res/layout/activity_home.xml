@@ -6,13 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical"
-    android:background="#4CAF50">
+    android:background="#FFFFFF">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tv1"
-        android:background="#FF9800"
+        android:background="#F3C581"
         android:text="Son 61136475"
         android:textStyle="bold"
         android:textColor="@color/black"

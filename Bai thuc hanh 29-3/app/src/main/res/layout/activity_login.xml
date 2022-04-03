@@ -4,14 +4,14 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    android:background="#2196F3"
+    android:background="#FFFFFF"
     tools:context=".ActivityLogin">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/tv1"
-        android:background="#FF9800"
+        android:background="#F3C581"
         android:text="Son 61136475"
         android:textStyle="bold"
         android:textColor="@color/black"
