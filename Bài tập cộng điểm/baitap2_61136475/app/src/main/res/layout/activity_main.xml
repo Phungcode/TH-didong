@@ -10,16 +10,17 @@
 
 
 
-    <TextView
+    <EditText
         android:id="@+id/nhap"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Nhập số tiền"
+        android:drawableLeft="@mipmap/ic_launcher"
+        android:hint="Nhập số tiền"
+        android:textColorHint="#989898"
         android:textSize="15dp"
         android:gravity="center"
         android:paddingTop="15dp"
         android:layout_margin="20dp"
-        android:paddingBottom="2dp"
         android:textColor="@color/black"/>
 
     <RadioButton
@@ -28,6 +29,7 @@
         android:layout_height="wrap_content"
         android:text="10%"
         android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
         />
 
     <RadioButton
@@ -36,6 +38,7 @@
         android:layout_height="wrap_content"
         android:text="15%"
         android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
         />
 
     <RadioButton
@@ -44,6 +47,7 @@
         android:layout_height="wrap_content"
         android:text="20%"
         android:layout_marginLeft="10dp"
+        android:textColor="@color/black"
         />
 
     <Button
