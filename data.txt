@@ -1,0 +1,3 @@
+void ChuyenMH (View V){
+intent ilogin () = new content( this , loginActivity.class)
+}
